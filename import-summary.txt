@@ -1,0 +1,271 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* app\
+* app\build.gradle
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\java\
+* app\src\main\java\com\
+* app\src\main\java\com\example\
+* app\src\main\java\com\example\rollmach\
+* app\src\main\java\com\example\rollmach\MainActivity.java
+* app\src\main\java\com\example\rollmach\SecondActivity.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\ar.png
+* app\src\main\res\drawable-hdpi\ar1.png
+* app\src\main\res\drawable-hdpi\back.jpg
+* app\src\main\res\drawable-hdpi\back_transparent.xml
+* app\src\main\res\drawable-hdpi\button_shape.xml
+* app\src\main\res\drawable-hdpi\button_shape_fb.xml
+* app\src\main\res\drawable-hdpi\button_shape_gp.xml
+* app\src\main\res\drawable-hdpi\button_shape_signup.xml
+* app\src\main\res\drawable-hdpi\fb.png
+* app\src\main\res\drawable-hdpi\gplus.png
+* app\src\main\res\drawable-hdpi\ic_launcher.png
+* app\src\main\res\drawable-hdpi\img1.png
+* app\src\main\res\drawable-hdpi\img2.png
+* app\src\main\res\drawable-hdpi\img3.png
+* app\src\main\res\drawable-hdpi\img4.png
+* app\src\main\res\drawable-hdpi\logo.png
+* app\src\main\res\drawable-hdpi\second_background.png
+* app\src\main\res\drawable-hdpi\sign.jpg
+* app\src\main\res\drawable-hdpi\singupfull.png
+* app\src\main\res\drawable-hdpi\text1.png
+* app\src\main\res\drawable-hdpi\text2.png
+* app\src\main\res\drawable-hdpi\tw.png
+* app\src\main\res\drawable-ldpi\
+* app\src\main\res\drawable-ldpi\ar.png
+* app\src\main\res\drawable-ldpi\ar1.png
+* app\src\main\res\drawable-ldpi\back.jpg
+* app\src\main\res\drawable-ldpi\back_transparent.xml
+* app\src\main\res\drawable-ldpi\button_shape.xml
+* app\src\main\res\drawable-ldpi\button_shape_fb.xml
+* app\src\main\res\drawable-ldpi\button_shape_gp.xml
+* app\src\main\res\drawable-ldpi\button_shape_signup.xml
+* app\src\main\res\drawable-ldpi\fb.png
+* app\src\main\res\drawable-ldpi\gplus.png
+* app\src\main\res\drawable-ldpi\ic_launcher.png
+* app\src\main\res\drawable-ldpi\img1.png
+* app\src\main\res\drawable-ldpi\img2.png
+* app\src\main\res\drawable-ldpi\img3.png
+* app\src\main\res\drawable-ldpi\img4.png
+* app\src\main\res\drawable-ldpi\logo.png
+* app\src\main\res\drawable-ldpi\second_background.png
+* app\src\main\res\drawable-ldpi\sign.jpg
+* app\src\main\res\drawable-ldpi\singupfull.png
+* app\src\main\res\drawable-ldpi\text1.png
+* app\src\main\res\drawable-ldpi\text2.png
+* app\src\main\res\drawable-ldpi\tw.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\ar.png
+* app\src\main\res\drawable-mdpi\ar1.png
+* app\src\main\res\drawable-mdpi\back.jpg
+* app\src\main\res\drawable-mdpi\back_transparent.xml
+* app\src\main\res\drawable-mdpi\button_shape.xml
+* app\src\main\res\drawable-mdpi\button_shape_fb.xml
+* app\src\main\res\drawable-mdpi\button_shape_gp.xml
+* app\src\main\res\drawable-mdpi\button_shape_signup.xml
+* app\src\main\res\drawable-mdpi\fb.png
+* app\src\main\res\drawable-mdpi\gplus.png
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\img1.png
+* app\src\main\res\drawable-mdpi\img2.png
+* app\src\main\res\drawable-mdpi\img3.png
+* app\src\main\res\drawable-mdpi\img4.png
+* app\src\main\res\drawable-mdpi\logo.png
+* app\src\main\res\drawable-mdpi\second_background.png
+* app\src\main\res\drawable-mdpi\sign.jpg
+* app\src\main\res\drawable-mdpi\singupfull.png
+* app\src\main\res\drawable-mdpi\text1.png
+* app\src\main\res\drawable-mdpi\text2.png
+* app\src\main\res\drawable-mdpi\tw.png
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\ar.png
+* app\src\main\res\drawable-xhdpi\ar1.png
+* app\src\main\res\drawable-xhdpi\back.jpg
+* app\src\main\res\drawable-xhdpi\back_transparent.xml
+* app\src\main\res\drawable-xhdpi\button_shape.xml
+* app\src\main\res\drawable-xhdpi\button_shape_fb.xml
+* app\src\main\res\drawable-xhdpi\button_shape_gp.xml
+* app\src\main\res\drawable-xhdpi\button_shape_signup.xml
+* app\src\main\res\drawable-xhdpi\fb.png
+* app\src\main\res\drawable-xhdpi\gplus.png
+* app\src\main\res\drawable-xhdpi\ic_launcher.png
+* app\src\main\res\drawable-xhdpi\img1.png
+* app\src\main\res\drawable-xhdpi\img2.png
+* app\src\main\res\drawable-xhdpi\img3.png
+* app\src\main\res\drawable-xhdpi\img4.png
+* app\src\main\res\drawable-xhdpi\logo.png
+* app\src\main\res\drawable-xhdpi\second_background.png
+* app\src\main\res\drawable-xhdpi\sign.jpg
+* app\src\main\res\drawable-xhdpi\singupfull.png
+* app\src\main\res\drawable-xhdpi\text1.png
+* app\src\main\res\drawable-xhdpi\text2.png
+* app\src\main\res\drawable-xhdpi\tw.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\ar.png
+* app\src\main\res\drawable-xxhdpi\ar1.png
+* app\src\main\res\drawable-xxhdpi\back.jpg
+* app\src\main\res\drawable-xxhdpi\back_transparent.xml
+* app\src\main\res\drawable-xxhdpi\button_shape.xml
+* app\src\main\res\drawable-xxhdpi\button_shape_fb.xml
+* app\src\main\res\drawable-xxhdpi\button_shape_gp.xml
+* app\src\main\res\drawable-xxhdpi\button_shape_signup.xml
+* app\src\main\res\drawable-xxhdpi\fb.png
+* app\src\main\res\drawable-xxhdpi\gplus.png
+* app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* app\src\main\res\drawable-xxhdpi\img1.png
+* app\src\main\res\drawable-xxhdpi\img2.png
+* app\src\main\res\drawable-xxhdpi\img3.png
+* app\src\main\res\drawable-xxhdpi\img4.png
+* app\src\main\res\drawable-xxhdpi\logo.png
+* app\src\main\res\drawable-xxhdpi\second_background.png
+* app\src\main\res\drawable-xxhdpi\sign.jpg
+* app\src\main\res\drawable-xxhdpi\singupfull.png
+* app\src\main\res\drawable-xxhdpi\text1.png
+* app\src\main\res\drawable-xxhdpi\text2.png
+* app\src\main\res\drawable-xxhdpi\tw.png
+* app\src\main\res\drawable\
+* app\src\main\res\drawable\ar.png
+* app\src\main\res\drawable\ar1.png
+* app\src\main\res\drawable\back.jpg
+* app\src\main\res\drawable\back_transparent.xml
+* app\src\main\res\drawable\button_shape.xml
+* app\src\main\res\drawable\button_shape_fb.xml
+* app\src\main\res\drawable\button_shape_gp.xml
+* app\src\main\res\drawable\button_shape_signup.xml
+* app\src\main\res\drawable\facebook.png
+* app\src\main\res\drawable\fb.png
+* app\src\main\res\drawable\final_back.jpg
+* app\src\main\res\drawable\gplus.png
+* app\src\main\res\drawable\img1.png
+* app\src\main\res\drawable\img2.png
+* app\src\main\res\drawable\img3.png
+* app\src\main\res\drawable\img4.png
+* app\src\main\res\drawable\logo.png
+* app\src\main\res\drawable\logo1.png
+* app\src\main\res\drawable\round.png
+* app\src\main\res\drawable\sec_fb.png
+* app\src\main\res\drawable\sec_signup.png
+* app\src\main\res\drawable\sec_trans.png
+* app\src\main\res\drawable\sec_twit.png
+* app\src\main\res\drawable\second_background.png
+* app\src\main\res\drawable\sign.jpg
+* app\src\main\res\drawable\sign_up.png
+* app\src\main\res\drawable\signup.jpg
+* app\src\main\res\drawable\signup_second.jpg
+* app\src\main\res\drawable\signup_second_back.jpg
+* app\src\main\res\drawable\signup_update.png
+* app\src\main\res\drawable\signup_update1.jpg
+* app\src\main\res\drawable\singupfull.png
+* app\src\main\res\drawable\text.png
+* app\src\main\res\drawable\text1.png
+* app\src\main\res\drawable\text2.png
+* app\src\main\res\drawable\tw.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\activity_second.xml
+* app\src\main\res\layout\fragment_first.xml
+* app\src\main\res\layout\fragment_second.xml
+* app\src\main\res\menu\
+* app\src\main\res\menu\main.xml
+* app\src\main\res\menu\second.xml
+* app\src\main\res\menu\weight.xml
+* app\src\main\res\values-hdpi\
+* app\src\main\res\values-hdpi\values.xml
+* app\src\main\res\values-ldpi\
+* app\src\main\res\values-ldpi\values.xml
+* app\src\main\res\values-mdpi\
+* app\src\main\res\values-mdpi\values.xml
+* app\src\main\res\values-v11\
+* app\src\main\res\values-v11\styles.xml
+* app\src\main\res\values-v14\
+* app\src\main\res\values-v14\styles.xml
+* app\src\main\res\values-w820dp\
+* app\src\main\res\values-w820dp\dimens.xml
+* app\src\main\res\values-xhdpi\
+* app\src\main\res\values-xhdpi\values.xml
+* app\src\main\res\values\
+* app\src\main\res\values\dimens.xml
+* app\src\main\res\values\strings.xml
+* app\src\main\res\values\styles.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:19.1.0]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

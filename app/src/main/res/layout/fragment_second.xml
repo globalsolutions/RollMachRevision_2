@@ -1,0 +1,316 @@
+<!--
+<ScrollView
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+
+    >
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:layout_weight="1"
+    android:weightSum="14.5"
+    android:id="@+id/text1">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="2"
+        android:background="@drawable/logo"
+        android:id="@+id/text2">
+        <!-- <ImageView
+
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:background="@drawable/logo"/>-->
+        <!-- <ImageView
+             android:scaleType="centerCrop"
+             android:adjustViewBounds="true"
+             android:layout_width="fill_parent"
+          w   android:layout_height="wrap_content"
+             android:background="@drawable/logo"/>-->
+        <!-- <TextView
+             android:layout_width="fill_parent"
+             android:layout_height="7dp"
+             android:text=""
+             android:background="#ffffff"/>-->
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:background="#ffffff"
+        android:layout_weight=".1">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10.5"
+        android:weightSum="10.5"
+        android:orientation="vertical"
+        android:background="@drawable/second_background"
+        >
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/text2"
+            android:orientation="vertical"
+            android:id="@+id/text3"></LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/text1"
+            ></LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:weightSum="5"
+            >
+
+
+
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/back_transparent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_shape_fb"
+                    android:layout_marginTop="15dp"
+
+                    >
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/fb"
+                        android:gravity="center"/>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_shape_gp"
+                    android:layout_marginTop="10dp"
+                    >
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/gplus"
+                        />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_shape"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="15dp"
+                    >
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/tw"
+                        />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+        <!--<LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:weightSum="8"
+            android:layout_marginTop="20dp"
+            >-->
+        <!--<LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1.5"
+            android:background="@drawable/button_shape_signup"
+            android:layout_marginTop="20dp"
+
+            >
+            <ImageButton
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@drawable/singupfull"/>
+
+        </LinearLayout>-->
+        <!-- <LinearLayout
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:gravity="center"
+             android:layout_weight="1"
+             android:background="@drawable/button_shape_signup"
+             android:layout_marginTop="0dp"
+
+             >
+             <ImageView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:background="@drawable/singupfull"
+                 android:gravity="center"/>
+
+         </LinearLayout>
+     </LinearLayout>-->
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/button_shape_signup"
+            android:layout_marginTop="20dp"
+
+            >
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@drawable/singupfull"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="2">
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Already have an account ?"
+                android:textSize="20dp"
+                android:layout_gravity="center_horizontal|center_vertical"                android:textColor="#ffffff"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="2">
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="LOG IN"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:textColor="#88aa00"
+                android:textStyle="normal"
+
+                />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="9dp"
+            android:text=""
+            android:background="#ffffff"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:background="#88aa00"
+        android:layout_weight="1.8"
+        android:layout_gravity="center">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layout_marginTop="11dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="6dp">
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ar"
+
+                android:layout_marginTop="15dp"/>
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/img1"
+                android:layout_marginLeft="10dp"
+
+                />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/img2"
+                android:layout_marginLeft="10dp"
+
+                />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/img3"
+                android:layout_marginLeft="10dp"
+
+                />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/img4"
+                android:layout_marginLeft="10dp"
+                />
+
+            <ImageButton
+                android:id="@+id/second"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ar1"
+                android:layout_marginLeft="6dp"
+                android:layout_marginTop="15dp"/>
+        </LinearLayout>
+
+
+        <!-- <TextView
+             android:layout_width="fill_parent"
+             android:layout_height="1dp"
+             android:text=""
+             android:background="#ffffff"/>-->
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:layout_weight=".1"></LinearLayout>
+</LinearLayout>
